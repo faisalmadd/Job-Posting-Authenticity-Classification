@@ -11,4 +11,5 @@ Link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-predi
 - Firstly the Exploratory Data Analysis (EDA) was carried out to discover the patterns available in the dataset.
 - Then the data cleaning process was carried out to remove unrelated columns and join the text from the columns.
 - Third step was using WordCloud and SpaCY to find out which keywords are the most common in the real/fraudulent job postings.
-- Then the 
+- Then the feature extraction was carried out using the TfidfVectorizer.
+- Last but not least the Logistic Regression, Random Forest, and XGBoost models were trained and evaluated.
