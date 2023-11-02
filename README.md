@@ -4,9 +4,8 @@ A project for 6006CEM Machine Learning and Related Applications coursework.
 
 Dataset employed for this project:
 
-Real / Fake Job Posting Prediction by Shivam Bansal (Kaggle)
-
-Link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction/data
+- Real / Fake Job Posting Prediction by Shivam Bansal (Kaggle)
+- Link: https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction/data
 
 # Methodology
 - Firstly the Exploratory Data Analysis (EDA) was carried out to discover the patterns available in the dataset.
